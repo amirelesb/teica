@@ -28697,7 +28697,7 @@ r.n(0,A.i(a,!1)).p4=""
 r.n(0,A.i(a,!1)).R8=""},
 aAu(a,b,c){var s=0,r=A.T(t.N),q,p,o,n,m,l,k
 var $async$aAu=A.U(function(d,e){if(d===1)return A.Q(e,r)
-while(true)switch(s){case 0:k='http://190.92.151.34:5984/teicausuarios/_design/DDUSER/_view/vistaNOMBRE?key="'+b+'"'
+while(true)switch(s){case 0:k='https://190.92.151.34:5984/teicausuarios/_design/DDUSER/_view/vistaNOMBRE?key="'+b+'"'
 A.w().$1(" fetch url: "+A.ce(k).j(0))
 p=B.O.gdz().bJ("admin:misa2023")
 o=t.N
