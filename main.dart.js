@@ -88763,7 +88763,7 @@ A.a98.prototype={
 $1(a){return B.Q4},
 $S:528}
 A.a9b.prototype={
-$2(a,b){A.e8(this.a,"Aviso","Error "+A.k(a)+" al buscar al usuario.",B.b4)},
+$2(a,b){A.e8(this.a,"Aviso","Error al buscar al usuario.",B.b4)},
 $S:529}
 A.a9d.prototype={
 $0(){A.e8(this.a,"Aviso","Contacta al administrador...",B.b4)},
